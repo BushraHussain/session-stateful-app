@@ -12,7 +12,7 @@ return(
 <div className="divInside">
 
 <div className="title">
-    <h1> Image component  </h1>
+    <h1> Image component!  </h1>
     </div>
 <div className= {`divInside ${ input ==2 ? "lexus" : "Bmw"}`}>
   

@@ -10,7 +10,7 @@ function Counter(props)
 
 return(
     <div className="count">
-        <h1 className="title"> Counter Component</h1>
+        <h1 className="title"> Counter Component!</h1>
         <h3 className="lines"> Count value before button click = {countValue++}</h3> 
         <button class="buttons" onClick={ ()=> setCountValue(20)}>Count Button</button>
         <h3 className="lines"> Count value after button click: {countValue}</h3>
