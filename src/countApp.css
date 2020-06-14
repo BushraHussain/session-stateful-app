@@ -1,0 +1,28 @@
+.count {
+
+    background-color: wheat;
+    padding: 10px ;
+    
+    }
+    
+    .title {
+    
+        text-align: center;
+        color:red;
+        font-family: sans-serif;
+        font-style: italic;
+    
+    }
+    
+    .lines {
+     font-family: sans-serif;
+        
+    }
+    
+    .buttons {
+     
+        border: springgreen;
+        color: red;
+        text-align: center;
+    
+    }

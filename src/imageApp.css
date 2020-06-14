@@ -1,0 +1,50 @@
+.lexus{
+  
+    background-image: url('lc500.jpg');
+    width: 20%;
+    height: 200px;
+    background-size: contain;
+    border-radius: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    
+
+  
+   }
+
+   
+   .Bmw {
+
+    background-image: url('bmwi8.jpg');
+    width: 20%;
+    height: 200px;
+    background-size: contain;
+    border-radius: 60%;
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+
+   }
+
+   .buttons {
+ 
+    border: springgreen;
+    color: red;
+   
+  
+
+}
+   
+ .divInside{
+ 
+   text-align: center;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   
+ 
+ }
