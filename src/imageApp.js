@@ -14,7 +14,7 @@ return(
 <div className="title">
     <h1> Image component!!!  </h1>
     </div>
-<div className= {`divInside ${ input ==2 ? "lexus" : "Bmw"}`}>
+<div className= {`divInside ${ input ===2 ? "lexus" : "Bmw"}`}>
   
   </div>
         <button className="buttons" onClick = {()=> setInput(2)}>Show Lexus </button>
